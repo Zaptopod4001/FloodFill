@@ -4,9 +4,9 @@
 
 ## What is it?
 
-I created this flood fill algorithm implementation as a learning experience. I didn't use any existing solutions as an example. I only set one requirement for this project - the algorithm shouldn't be using recusion. As this implementation doesn't use recursion there should be no possibility for a stack over flow while the program is executing.
+I created this flood fill algorithm implementation as a learning experience. I didn't use any existing solutions as an example. I only set one requirement for this project - the algorithm shouldn't be using recursion. As this implementation doesn't use recursion there should be no possibility for a stack overflow while the program is executing.
 
-There is a demo scene and a class that shows how to use this implementation of flood fill algorithm. Demo class uses flood fill algorithm for a paint bucket effect, similar to one that can be found in many 80s painting or drawing software. Despite of this, the algorithm can be used for many other things, like to isolate a blob of specific kind of cells or to find a connected area of map.
+There is a demo scene and a class that shows how to use this implementation of flood fill algorithm. Demo class uses flood fill algorithm for a paint bucket effect, similar to one that can be found in many 80s painting or drawing software. Despite of this, the algorithm can be used for many other purposes, like to isolate a blob of specific kind of cells or to find a connected area of map.
 
 # Classes
 
