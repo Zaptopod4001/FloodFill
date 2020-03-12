@@ -16,5 +16,5 @@ A demo class that shows how FloodFill.cs class can be used. In this case, the al
 ## FloodFill.cs
 The flood fill algorithm, in this case it only operates with integer data, but it could be changed to a more generic form.
 
-## Copyright 
+# Copyright 
 Created by Sami S. use of any kind without a written permission from the author is not allowed. But feel free to take a look.
