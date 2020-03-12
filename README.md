@@ -11,9 +11,9 @@ There is a demo scene and a class that shows how to use this implementation of f
 # Classes
 
 ## MapMaker.cs
-A demo class that shows how FloodFill.cs class can be used. In this case, the algorithm execution is slowed down, and texture pixels are colored to show how algorithm works.
+A demo class that shows how FloodFill.cs class can be used. In this case, the algorithm execution is slowed down, and texture pixels are colored to show how the algorithm works.
 
-## FloodFill
+## FloodFill.cs
 The flood fill algorithm, in this case it only operates with integer data, but it could be changed to a more generic form.
 
 ## Copyright 
