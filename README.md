@@ -1,4 +1,4 @@
-# Non recursive flood fill (Unity / C#)
+# Non-recursive flood fill (Unity / C#)
 
 ![Flood fill animation](/doc/flood_fill.gif)
 
